@@ -1,0 +1,6 @@
+name: Lucy_PermissionBook
+version: '${version}'
+main: kr.lucymc.lucy_permissionbook.Lucy_PermissionBook
+api-version: '1.20'
+commands:
+  펄미션북:
